@@ -47,7 +47,7 @@ img{
 
   <body>
     <div class="header">
-    <!-- <marquee behavior="alternate" direction="center" scrollamount="25px"> -->
+    <marquee behavior="alternate" direction="center" scrollamount="25px"> 
     <h2> HISTORICAL PLACES IN INDIA </h2>
     </marquee>
     </div>
